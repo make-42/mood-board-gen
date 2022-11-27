@@ -2,4 +2,4 @@
 A simple python script to generate mood boards from images.
 
 # Example
-![example image](https://raw.githubusercontent.com/make-42/mood-board-gen/raw/main/examples/A%20Silent%20Voice.moodboard.webp)
+![example image](https://github.com/make-42/mood-board-gen/blob/main/examples/A%20Silent%20Voice.moodboard.webp?raw=true)
